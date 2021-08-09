@@ -87,4 +87,4 @@ VolCore breaks up their requirements into three categories:
 --------------
 # Discussion 
 
-Please see `Slides.pdf` for our committees discussion on all of these.
+Please see `Slides.pdf` for our committee's discussion on all of these.
