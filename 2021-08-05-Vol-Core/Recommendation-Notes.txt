@@ -13,7 +13,7 @@ OC - Try for 401 (perhaps adding a credit)
 
 AOC - Try for 402.
 
-EI  * If we don't care: Just let the students get it on their own.
+EI  * Just let the students get it on their own.
       (Philosophy: wait and see with this part of VolCore).
     - Simplest would be ECE 335 and COSC 340.  Then majors get all three EI's.
     - Or ECE 336 (EE), ECE 351 (CpE), COSC 340.
